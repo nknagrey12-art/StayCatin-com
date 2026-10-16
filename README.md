@@ -16,6 +16,5 @@ This repository showcases an interactive **Tableau Dashboard** designed to trans
 * **Interactive Filtering**: Users can filter performance metrics by region, date range, and product category.
 * **KPI Tracking**: Clear metrics highlighting total revenue, profit margins, and growth trends.
 * **Geographic & Category Analysis**: Visualizing distribution across different segments and geographic locations.
-
-
-<img src="https://github.com/nknagrey12-art/StayCatin-com/blob/main/tableau1.png?raw=true" alt="Tableau Dashboard" width="100%">
+-
+<img src="https://github.com/nknagrey12-art/StayCatin-com/blob/main/tableau1.png?raw=true" alt="Tableau Dashboard" width="100%"> img
